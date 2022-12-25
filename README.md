@@ -20,3 +20,11 @@ Some git commands used
 ```
 1. git add . OR git add filename (To add files that needs to be commited to repository)
 2. git commit -m "commit message"  (to push from local to staging environment )
+3. git status (to check status)
+4. git push origin main
+```
+
+Command to run python app
+``` 
+python app.py
+```
