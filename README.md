@@ -18,4 +18,5 @@ git config --global user.name "Your Name"
 
 Some git commands used
 ```
-git add . OR git add filename
+1. git add . OR git add filename (To add files that needs to be commited to repository)
+2. git commit -m "commit message"  (to push from local to staging environment )
